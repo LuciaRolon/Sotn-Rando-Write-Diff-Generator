@@ -1,4 +1,4 @@
-This is a simple Python Script that compares two bin files and outputs a json file in the same format as the Preset writes for the Randomizer.
+This is a simple Python Script that compares two bin files and outputs the resulting differences in the target file as a json file in the same format as the Preset writes for the Randomizer.
 
 Usage:
 ```
