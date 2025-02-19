@@ -1,3 +1,5 @@
-start.bin
-end.bin
+bins/start.bin
+bins/end.bin
 .venv
+bins/
+output.json
